@@ -3,10 +3,17 @@ import datetime
 import asyncio
 
 # id = 655760058390544384
-token = "NjU1NzYwNTUxMzc2NDUzNjMz.XfZDUQ.TMU-q_l9HxQ7tJj5HLAv0KOH0bQ"
 messages = joined = 0
 message_count_dict = {}
 client = discord.Client()
+
+
+def read_mytoken():
+    with open("token.txt", "r") as f:
+        lines = f.readlines()
+        return lines[0].strip()
+
+token = read_mytoken()
 
 
 async def update_stats():
