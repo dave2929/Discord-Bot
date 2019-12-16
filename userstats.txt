@@ -1,0 +1,51 @@
+Update Time: 2019-12-16 02:06:04.145244, User: BOT#8464, # of Messages: 0
+Update Time: 2019-12-16 02:06:04.145244, User: David1#1720, # of Messages: 0
+Update Time: 2019-12-16 02:06:09.154705, User: BOT#8464, # of Messages: 0
+Update Time: 2019-12-16 02:06:09.154705, User: David1#1720, # of Messages: 0
+Update Time: 2019-12-16 02:07:05.052219, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 02:07:05.052219, User: David1#1720, # of Messages: 1
+Update Time: 2019-12-16 02:07:10.054835, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 02:07:10.054835, User: David1#1720, # of Messages: 1
+Update Time: 2019-12-16 02:07:15.062714, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 02:07:15.062714, User: David1#1720, # of Messages: 1
+Update Time: 2019-12-16 02:07:20.055860, User: BOT#8464, # of Messages: 2
+Update Time: 2019-12-16 02:07:20.055860, User: David1#1720, # of Messages: 2
+Update Time: 2019-12-16 02:07:25.056270, User: BOT#8464, # of Messages: 3
+Update Time: 2019-12-16 02:07:25.056270, User: David1#1720, # of Messages: 3
+Update Time: 2019-12-16 02:07:30.058320, User: BOT#8464, # of Messages: 4
+Update Time: 2019-12-16 02:07:30.058320, User: David1#1720, # of Messages: 4
+Update Time: 2019-12-16 02:07:35.059776, User: BOT#8464, # of Messages: 4
+Update Time: 2019-12-16 02:07:35.059776, User: David1#1720, # of Messages: 4
+Update Time: 2019-12-16 02:07:40.061527, User: BOT#8464, # of Messages: 4
+Update Time: 2019-12-16 02:07:40.061527, User: David1#1720, # of Messages: 4
+Update Time: 2019-12-16 02:07:45.063882, User: BOT#8464, # of Messages: 4
+Update Time: 2019-12-16 02:07:45.063882, User: David1#1720, # of Messages: 4
+Update Time: 2019-12-16 02:07:50.066753, User: BOT#8464, # of Messages: 4
+Update Time: 2019-12-16 02:07:50.066753, User: David1#1720, # of Messages: 4
+Update Time: 2019-12-16 02:07:55.071579, User: BOT#8464, # of Messages: 4
+Update Time: 2019-12-16 02:07:55.071579, User: David1#1720, # of Messages: 4
+Update Time: 2019-12-16 02:08:00.078615, User: BOT#8464, # of Messages: 4
+Update Time: 2019-12-16 02:08:00.078615, User: David1#1720, # of Messages: 4
+Update Time: 2019-12-16 02:08:05.079921, User: BOT#8464, # of Messages: 4
+Update Time: 2019-12-16 02:08:05.079921, User: David1#1720, # of Messages: 4
+Update Time: 2019-12-16 02:34:45.667161, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 02:34:45.667161, User: Definitely Not David#1290, # of Messages: 1
+Update Time: 2019-12-16 02:45:38.693863, User: BOT#8464, # of Messages: 2
+Update Time: 2019-12-16 02:45:38.693863, User: Definitely Not David#1290, # of Messages: 1
+Update Time: 2019-12-16 02:46:38.686129, User: BOT#8464, # of Messages: 2
+Update Time: 2019-12-16 02:46:38.686129, User: Definitely Not David#1290, # of Messages: 1
+Update Time: 2019-12-16 02:47:38.679975, User: BOT#8464, # of Messages: 2
+Update Time: 2019-12-16 02:47:38.679975, User: Definitely Not David#1290, # of Messages: 1
+Update Time: 2019-12-16 02:50:31.014803, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 02:50:31.014803, User: Definitely Not David#1290, # of Messages: 1
+Update Time: 2019-12-16 03:11:12.474970, User: BOT#8464, # of Messages: 2
+Update Time: 2019-12-16 03:12:35.201246, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 03:13:35.195722, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 03:14:35.192810, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 03:15:35.206234, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 03:16:35.221805, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 03:17:35.235706, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 03:18:35.233918, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 03:19:35.236753, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 03:20:35.225205, User: BOT#8464, # of Messages: 1
+Update Time: 2019-12-16 03:22:00.476290, User: David1#1720, # of Messages: 1
